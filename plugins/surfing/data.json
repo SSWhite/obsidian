@@ -1,0 +1,180 @@
+{
+  "defaultSearchEngine": "bing",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": true,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": true,
+  "openInObsidianWeb": true,
+  "useCustomIcons": false,
+  "useWebview": true,
+  "useIconList": true,
+  "darkMode": false,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "saveBookMark": true,
+    "sendToReadWise": true,
+    "pagination": "12",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "menu"
+  },
+  "treeData": [
+    {
+      "id": "3edd2d11ae68e9c3",
+      "parent": 0,
+      "droppable": true,
+      "text": "2022-Arch安装（详细） - 知乎",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "02a909420eeba308",
+      "parent": 0,
+      "droppable": true,
+      "text": "Linux hwclock命令 | 菜鸟教程",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "39eff9b764093c4e",
+      "parent": 0,
+      "droppable": true,
+      "text": "Linux基础命令---hwclock - 一生有你llx - 博客园",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "a4eacc6ad33ddd66",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "c99dd0deb6d810b8",
+      "parent": 0,
+      "droppable": true,
+      "text": "ntfs-3g驱动 - 搜索",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "1bad70891332b72a",
+      "parent": 0,
+      "droppable": true,
+      "text": "intel-ucode是什么 - 搜索",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "b8694e566114dcbd",
+      "parent": 0,
+      "droppable": true,
+      "text": "如何在 Linux 上安装/更新 Intel 微码固件 - 知乎",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "3731ec3f17b25f9d",
+      "parent": 0,
+      "droppable": true,
+      "text": "技术|如何在 Linux 上安装/更新 Intel 微码固件",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "4942399361bbba29",
+      "parent": 0,
+      "droppable": true,
+      "text": "git初始化仓库 - 搜索",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "0613599ff4364fd7",
+      "parent": 0,
+      "droppable": true,
+      "text": "必知必会之Git 初始化本地仓库 - 知乎",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "abe3ea740efe53eb",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "ee14b7e9789e3e28",
+      "parent": 0,
+      "droppable": true,
+      "text": "SSWhite/obsidian · GitHub",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
+}

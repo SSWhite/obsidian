@@ -1,0 +1,27 @@
+{
+  "selected": "_in_app_last",
+  "custom": {},
+  "modifierBindings": [
+    {
+      "id": "8964AW",
+      "platform": "unknown",
+      "modifier": "ctrl",
+      "focusOnView": true,
+      "auxClickOnly": true
+    }
+  ],
+  "enableLog": true,
+  "timeout": 500,
+  "inAppViewRec": [
+    {
+      "leafId": "9b50571c736cd1ff",
+      "url": "https://github.com/MamoruDS/obsidian-open-link-with",
+      "mode": 0
+    },
+    {
+      "leafId": "9ff2a9db883013ee",
+      "url": "https://github.com/MamoruDS/obsidian-open-link-with",
+      "mode": 0
+    }
+  ]
+}

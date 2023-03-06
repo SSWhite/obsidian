@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01-道",
+      "color": {
+        "a": 1,
+        "rgb": 5431432
+      }
+    },
+    {
+      "query": "path:02-法",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:03-术",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:04-器",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:06-入",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.891145833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.614583333333333,
+  "repelStrength": 11.1458333333333,
+  "linkStrength": 0.651041666666667,
+  "linkDistance": 201,
+  "scale": 1.401982897776101,
+  "close": false
+}

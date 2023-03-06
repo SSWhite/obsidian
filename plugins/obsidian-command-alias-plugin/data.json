@@ -1,0 +1,16 @@
+{
+  "aliases": {
+    "1677679237634": {
+      "name": "reboot",
+      "commandId": "app:reload"
+    },
+    "1677679319972": {
+      "name": "sync",
+      "commandId": "remotely-save:start-sync"
+    }
+  },
+  "commandDetection": {
+    "maxTry": 6,
+    "msecOfInterval": 600
+  }
+}

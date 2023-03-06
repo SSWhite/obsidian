@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "aa83b807b2b99945",
+    "type": "split",
+    "children": [
+      {
+        "id": "caeb7d346a5dfb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56e10debfb4b6ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-入/Obsidian/插件列表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35c09d2da948b52f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03572699b5f35fdd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "377a9e83dee4b3d5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f55ee579ccdba6d7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e3738df0df3f8c15",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "41845f4bfd182a37",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "d4839abc3fa7bc79",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a5a3d35b114aade",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "06-入/Obsidian/插件列表.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4d6150bd68e31514",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "06-入/Obsidian/插件列表.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b5f1aa99731a9abd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "06-入/Obsidian/插件列表.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "56e10debfb4b6ae1",
+  "lastOpenFiles": [
+    "test.md",
+    "Context",
+    "06-入/Obsidian/插件安装.md",
+    "06-入/Obsidian/插件列表.md",
+    "未命名.md",
+    "工作流.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "Pasted image 20230301221353.png",
+    "Pasted image 20230301221312.png",
+    "Pasted image 20230301200527.png",
+    "Excalidraw/Drawing 2023-03-01 23.11.36.excalidraw.md",
+    "Screenshot_2023-03-01-01-40-17-031_tv.danmaku.bilibilihd.png.md",
+    "06-入/Obsidian",
+    "Excalidraw",
+    "06-入/一插件安装.md",
+    "Screenshot_2023-03-01-02-00-37-329_tv.danmaku.bilibilihd.png",
+    "Screenshot_2023-03-01-01-57-52-337_tv.danmaku.bilibilihd.png",
+    "Screenshot_2023-03-01-01-40-17-031_tv.danmaku.bilibilihd.png",
+    "Screenshot_2023-03-01-01-35-25-429_tv.danmaku.bilibilihd.png",
+    "02-法/01-图书",
+    "02-法/03-视频",
+    "未命名",
+    "1.md",
+    "2.md",
+    "Screenshot_2023-02-28-20-49-25-243_tv.danmaku.bilibilihd.png",
+    "06-入/微信读书/HTTP/01.md",
+    "04-器/01-Obsidian/00-Slip-Box/Obsidian-标签.md",
+    "2023-02-28.md",
+    "Screenshot_2023-02-28-20-53-21-965_md.obsidian.png",
+    "Screenshot_2023-02-28-20-49-56-181_tv.danmaku.bilibilihd.png",
+    "04-器/01-Obsidian/01-Obsidian基础用法/02-Obsidian核心插件.md",
+    "2023-02-27.md",
+    "04-器/01-Obsidian/01-Obsidian基础用法/01-Obsidian基本元素.md",
+    "微信读书/HTTP/01.md",
+    "微信读书/HTTP",
+    "微信读书",
+    "06-入/Obsidian-标签.md",
+    "04-器/01-Obsidian/00-Slip-Box",
+    "04-器/01-Obsidian/03-Obsidian定制化",
+    "测试2.md",
+    "测试.md",
+    "未命名.canvas",
+    "alias.md",
+    "alias常用方式.mp4.md"
+  ]
+}

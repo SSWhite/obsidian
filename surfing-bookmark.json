@@ -1,0 +1,55 @@
+{
+  "bookmarks": [
+    {
+      "id": "-1253691857",
+      "name": "所有 - 滴答清单",
+      "url": "https://www.dida365.com/webapp/#q/all/tasks",
+      "description": "",
+      "category": [
+        ""
+      ],
+      "tags": "",
+      "created": 1677946767720,
+      "modified": 1677946767720
+    },
+    {
+      "id": "-1800596730",
+      "name": "所有 - 滴答清单",
+      "url": "https://dida365.com/webapp/#q/all/tasks",
+      "description": "",
+      "tags": "",
+      "created": 1677946440000,
+      "modified": 1677946680000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    },
+    {
+      "value": "obsidian",
+      "text": "obsidian",
+      "label": "obsidian",
+      "children": [
+        {
+          "value": "surfing",
+          "text": "surfing",
+          "label": "surfing"
+        },
+        {
+          "value": "dataview",
+          "text": "dataview",
+          "label": "dataview"
+        }
+      ]
+    },
+    {
+      "value": "常用",
+      "text": "常用",
+      "label": "常用"
+    }
+  ]
+}

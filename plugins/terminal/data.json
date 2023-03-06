@@ -1,0 +1,32 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": true,
+  "errorNoticeTimeout": 0,
+  "hideStatusBar": "focused",
+  "language": "zh-Hans",
+  "lastReadChangelogVersion": "3.2.0",
+  "newInstanceBehavior": "newHorizontalSplit",
+  "noticeTimeout": 5,
+  "preferredRenderer": "canvas",
+  "profiles": {
+    "40b380a2-1e8a-411c-80e6-b19bed089078": {
+      "args": [],
+      "executable": "xterm",
+      "name": "",
+      "platforms": {
+        "linux": true
+      },
+      "type": "external"
+    },
+    "fb5618d8-27d6-4dbb-aefc-ee198416eb4b": {
+      "name": "",
+      "type": ""
+    },
+    "b8658d3f-8b6e-4975-a38a-8e1c73a2dd06": {
+      "name": "",
+      "type": ""
+    }
+  },
+  "recovery": {}
+}

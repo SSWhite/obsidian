@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "9645e5aa59f87b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75590fdc5ef3c37",
+        "type": "split",
+        "children": [
+          {
+            "id": "b9db7df80a00924b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "95d99201f744bab2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "test.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "02a909420eeba308",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.runoob.com/linux/linux-comm-hwclock.html"
+                  }
+                }
+              },
+              {
+                "id": "39eff9b764093c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.cnblogs.com/wj78080458/p/9806774.html"
+                  }
+                }
+              },
+              {
+                "id": "a4eacc6ad33ddd66",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.google.com/search?q=ntfs-3g驱动"
+                  }
+                }
+              },
+              {
+                "id": "c99dd0deb6d810b8",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.bing.com/search?q=ntfs-3g驱动"
+                  }
+                }
+              },
+              {
+                "id": "1bad70891332b72a",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://cn.bing.com/search?q=intel-ucode%e6%98%af%e4%bb%80%e4%b9%88&qs=UT&pq=intel-ucode&sk=CT1SC1&sc=10-11&cvid=F921AE0F3962459C83A7A0C2BB2D1510&FORM=QBRE&sp=3&lq=0"
+                  }
+                }
+              },
+              {
+                "id": "3731ec3f17b25f9d",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://linux.cn/article-9411-1.html#:~:text=intel-ucode%20%E2%80%94%E2%80%94%20%E9%80%82%E7%94%A8%E4%BA%8E%20Intel%20CPU%20%E7%9A%84%20Arch%20Linux,%E3%80%81%20linux-firmware%20%E5%92%8C%20ucode-intel%20%E2%80%94%E2%80%94%20Suse%2FOpenSUSE%20Linux%20%E5%BE%AE%E7%A0%81%E6%9B%B4%E6%96%B0%E5%8C%85"
+                  }
+                }
+              },
+              {
+                "id": "b8694e566114dcbd",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://zhuanlan.zhihu.com/p/34340298"
+                  }
+                }
+              },
+              {
+                "id": "4942399361bbba29",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.bing.com/search?q=git初始化仓库"
+                  }
+                }
+              },
+              {
+                "id": "0613599ff4364fd7",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://zhuanlan.zhihu.com/p/157833421"
+                  }
+                }
+              },
+              {
+                "id": "abe3ea740efe53eb",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.github.com/sswhite/obsidian"
+                  }
+                }
+              }
+            ],
+            "currentTab": 10
+          },
+          {
+            "id": "d7f7c585c23b810d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3edd2d11ae68e9c3",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://zhuanlan.zhihu.com/p/499766549"
+                  }
+                }
+              },
+              {
+                "id": "ee14b7e9789e3e28",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://github.com/sswhite/obsidian"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e132070a42cbb8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27060e98261b2e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "596cfe0f05cfd235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4dcbb169082db63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#工作流/待输出",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a0a7cfd961e72eb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "71b077a419a363e3",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c96a08f0564daa4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91923a85696a6531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97cf14c2ff2df425",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f5e9a7986db5151c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba6c5b8bfa80fa76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7311c7996eab4efb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b4b6fe71d096bb4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "random-note:开始漫游笔记": false,
+      "templates:插入模板": false,
+      "remotely-save:Remotely Save": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "surfing:surfing-bookmark-manager": false
+    }
+  },
+  "active": "ee14b7e9789e3e28",
+  "lastOpenFiles": [
+    "test.md",
+    "Screenshot_2023-03-01-01-57-52-337_tv.danmaku.bilibilihd.png",
+    "Screenshot_2023-03-01-01-40-17-031_tv.danmaku.bilibilihd.png.md",
+    "Screenshot_2023-03-01-01-35-25-429_tv.danmaku.bilibilihd.png",
+    "Pasted image 20230306210500.png",
+    "Pasted image 20230306202354.png",
+    "Pasted image 20230306201302.png",
+    "Pasted image 20230306200626.png",
+    "Pasted image 20230306200009.png",
+    "Pasted image 20230305193024.png",
+    "Pasted image 20230301221312.png",
+    "Pasted image 20230301200527.png",
+    "00-收/Obsidian/插件安装.md",
+    "Archlinux安装.md",
+    "Excalidraw/Drawing 2023-03-01 23.11.36.excalidraw.md",
+    "未命名.md",
+    "工作流.md",
+    "00-收/IT/VMware使用EFI模式.md",
+    "00-收/IT",
+    "Context",
+    "未命名 2.md",
+    "04-器/01-Obsidian/01-Obsidian基础用法/01-Obsidian基本元素.md",
+    "04-器/01-Obsidian/01-Obsidian基础用法/02-Obsidian核心插件.md",
+    "04-器/01-Obsidian/00-Slip-Box/Obsidian-标签.md",
+    "Excalidraw",
+    "00-收/Obsidian/插件列表.md",
+    "00-收/Obsidian",
+    "test.html.md",
+    "test.html",
+    "02-法/01-图书/02-如何阅读一本书",
+    "02-法/01-图书/01-卡片笔记写作法",
+    "02-法/03-视频",
+    "02-法/01-图书",
+    "06-入/微信读书/HTTP/01.md",
+    "2.md",
+    "2023-02-28.md",
+    "1.md",
+    "00-收/微信读书/HTTP",
+    "2023-02-27.md",
+    "测试.md",
+    "test.canvas",
+    "alias.md",
+    "test2.canvas",
+    "未命名.canvas",
+    "测试2.md"
+  ]
+}
